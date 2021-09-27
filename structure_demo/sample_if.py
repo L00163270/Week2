@@ -1,4 +1,4 @@
-** *
+
 # --------------------
 # File      : .py
 # Created   : 27-09-2021 {TIME}
@@ -9,4 +9,10 @@
 # Description :
 # --------------------
 
-** *
+
+
+if __name__ == '__main__':
+
+   grade = 50
+# print(grade)
+if grade >=40: print("you passed")
